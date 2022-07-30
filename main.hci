@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:54FEB453
+NODE:M LEVEL:0 LINE:14 "_MAIN_H_"
+NODE:I LEVEL:0 LINE:17 "C:\cvavr\inc\stdint.h"
+NODE:I LEVEL:0 LINE:18 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:19 "C:\cvavr\inc\math.h"
